@@ -404,7 +404,7 @@ track female_skeletal_muscle_Transcriptn_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E108-H3K36me3.imputed.pval.signal.bigwig
 shortLabel female_skeletal_muscle_Transcriptn_H3K36me3
 longLabel female_skeletal_muscle_Transcriptn_H3K36me3
-parent Trasncriptn_tracks
+parent Transcriptn_tracks
 type bigWig
 color 0,0,255
 
