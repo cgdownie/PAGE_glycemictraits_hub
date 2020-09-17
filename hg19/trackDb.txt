@@ -195,7 +195,7 @@ type bigWig
 color 0,0,255
 
 track pancreas_Repressor_H3K27me3
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E098-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E098-H3K27me3.imputed.pval.signal.bigwig
 shortLabel pancreas_Repressor_H3K27me3
 longLabel pancreas_Repressor_H3K27me3
 parent Repressor_tracks
